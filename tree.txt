@@ -1,0 +1,20 @@
+CapstoneProject
+├── back-end
+│   ├── helms
+│   └── services
+│       ├── community
+│       │   ├── HELP.md
+│       │   ├── build
+│       │   ├── build.gradle
+│       │   ├── gradle
+│       │   ├── gradlew
+│       │   ├── gradlew.bat
+│       │   ├── settings.gradle
+│       │   └── src
+│       ├── dilema
+│       ├── kafka
+│       ├── users
+│       └── wizard
+└── front-end
+
+13 directories, 5 files
